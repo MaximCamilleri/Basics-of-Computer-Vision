@@ -26,7 +26,7 @@ This repository is a collection of a few widely used techniques used in the comp
 * Image Segmentation of handwritten text 
 
 ### Paper Implementation 
-This section implements and recreates the results of Dylan Seychell paper ‘An Approach for Objective Quality Assessment of Image Inpainting Results’. It Involves inpainting using Telea and NS methods and the computation of results using MSE SSIM and PSNR. This is done on the COTS dataset provided in the paper. 
+This section implements and recreates the results of [Dylan Seychell's](https://github.com/dylanseychell) paper ‘An Approach for Objective Quality Assessment of Image Inpainting Results’. It Involves inpainting using Telea and NS methods and the computation of results using MSE SSIM and PSNR. This is done on the COTS dataset provided in the paper. 
 
 The section also involves a few other experiments on the same dataset, including, inpainting with complex backgrounds, background subtraction, object extraction, and background replacement. 
 
