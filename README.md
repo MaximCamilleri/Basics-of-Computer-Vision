@@ -1,6 +1,6 @@
 # Basics-of-Computer-Vision
 
-This repository is a collection of a few widely used techniques used in the computer vision sector. These are:
+This repository is a collection of a few widely used techniques in the computer vision sector. These are:
 
 ### Area Processing
 * Sliding windows
